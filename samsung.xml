@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- kltekdi -->
+  <project name="kbc-developers/android_device_samsung_kltekdi" path="device/samsung/kltekdi" remote="github" revision="cm-13.0" />
+  <project name="kbc-developers/android_device_samsung_klte-common" path="device/samsung/klte-common" remote="github" revision="cm-13.0" />
+  <project name="kbc-developers/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" revision="cm-13.0" />
+  <project name="kbc-developers/android_kernel_samsung_klte" path="kernel/samsung/klte" remote="github" revision="cm-13.0" />
+
+  <!-- sc03e -->
+  <project name="kbc-developers/android_device_samsung_sc03e" path="device/samsung/sc03e" remote="github" revision="cm-13.0" />
+  <project name="kbc-developers/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="cm-13.0" />
+  <project name="kbc-developers/android_device_samsung_smdk4412-qcom-common" path="device/samsung/smdk4412-qcom-common" remote="github" revision="cm-13.0" />
+  <project name="kbc-developers/kernel_samsung_exynos4412" path="kernel/samsung/exynos4412dcm" remote="github" revision="cm-13.0" />
+
+  <!-- common -->
+  <project name="kbc-developers/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-13.0" />
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- sirius -->
+  <project name="CyanogenMod/android_device_sony_sirius" path="device/sony/sirius" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_sony_shinano-common" path="device/sony/shinano-common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_sony_msm8974-common" path="device/sony/msm8974-common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_kernel_sony_msm" path="kernel/sony/msm" remote="github" revision="cm-13.0" />
+
+  <!-- sony-common-->
+  <project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_hardware_sony_camera" path="hardware/sony/camera" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/sony" remote="github" revision="cm-13.0-sony" />
+  <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/sony" remote="github" revision="cm-13.0-sony" />
+</manifest>

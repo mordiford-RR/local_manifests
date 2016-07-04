@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- d855 -->
+  <project name="CyanogenMod/android_device_lge_d855" path="device/lge/d855" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="cm-13.0" />
+
+  <!-- h815 -->
+  <project name="CyanogenMod/android_device_lge_h815" path="device/lge/h815" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_lge_g4-common" path="device/lge/g4-common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_kernel_lge_msm8992" path="kernel/lge/msm8992" remote="github" revision="cm-13.0" />
+
+  <!-- hammerhead -->
+  <project name="CyanogenMod/android_device_lge_hammerhead" path="device/lge/hammerhead" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="cm-13.0" />
+
+  <!-- l01f -->
+  <project name="CyanogenMod/android_device_lge_l01f" path="device/lge/l01f" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_lge_g2-common" path="device/lge/g2-common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_kernel_lge_msm8974" path="kernel/lge/msm8974" remote="github" revision="cm-13.0" />
+
+  <!-- mako -->
+  <project name="CyanogenMod/android_device_lge_mako" path="device/lge/mako" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/lge-kernel-mako" path="kernel/lge/mako" remote="github" revision="cm-13.0" />
+</manifest>
