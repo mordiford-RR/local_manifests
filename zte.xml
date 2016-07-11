@@ -1,5 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="mordiford/android_device_zte_nx512j" path="device/zte/nx512j" remote="github" revision="cm-13.0" />
-  <project name="faust93/android_kernel_nx512j" path="kernel/zte/NX512J" remote="github" revision="cm-13.0" />
+  <!-- nx512j -->
+  <project name="mordiford/resurrection_device_zte_nx512j" path="device/zte/nx512j" remote="github" revision="rr" />
+  <project name="mordiford/resurrection_kernel_zte_nx512j" path="kernel/zte/nx512j" remote="github" revision="rr" />
 </manifest>
