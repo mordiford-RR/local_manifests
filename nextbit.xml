@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <!-- ether -->
-  <project name="CyanogenMod/android_device_nextbit_ether" path="device/nextbit/ether" remote="github" revision="cm-13.0" />
-  <project name="deadman96385/android_kernel_nextbit_msm8992" path="kernel/nextbit/msm8992" remote="github" revision="cm-13.0" />
-</manifest>
