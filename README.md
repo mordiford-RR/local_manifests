@@ -1,5 +1,8 @@
 # local_manifests
 
+- Resurrection Remix向けの`local_manifests`です
+    - [mordiford/resurrection_manifest](https://github.com/mordiford/resurrection_manifest) との併用を想定
+- arm64端末はUBERTC使うためにデバイスツリーに手入れてるものに限る
 - いろいろメーカー別に置いてるけど全部が全部動くとは限らない
     - 一応一度はビルド通した記憶があるやつだけど
 - `vendor`？知らんな。手元の端末から取り出しててくれ
