@@ -6,7 +6,7 @@
   <project name="CyanogenMod/android_kernel_lge_g3" path="kernel/lge/g3" remote="github" revision="cm-13.0" />
 
   <!-- h815 -->
-  <project name="CyanogenMod/android_device_lge_h815" path="device/lge/h815" remote="github" revision="cm-13.0" />
+  <project name="mordiford-old/resurrection_device_lge_h815" path="device/lge/h815" remote="github" revision="rr" />
   <project name="CyanogenMod/android_device_lge_g4-common" path="device/lge/g4-common" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_kernel_lge_msm8992" path="kernel/lge/msm8992" remote="github" revision="cm-13.0" />
 
