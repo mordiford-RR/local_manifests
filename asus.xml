@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- P024 -->
-  <project name="vm03/android_device_asus_P024" path="device/asus/P024" remote="github" revision="cm-13.0"/>
-  <project name="vm03/android_kernel_asus_P024" path="kernel/asus/P024" remote="github" revision="cm-13.0"/>
+  <project name="CyanogenMod/android_device_asus_P024" path="device/asus/P024" remote="github" revision="cm-13.0"/>
+  <project name="CyanogenMod/android_kernel_asus_P024" path="kernel/asus/P024" remote="github" revision="cm-13.0"/>
 
   <!-- Z00L -->
   <project name="CyanogenMod/android_device_asus_Z00L" path="device/asus/Z00L" remote="github" revision="cm-13.0" />
