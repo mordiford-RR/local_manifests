@@ -4,11 +4,6 @@
   <project name="mordiford/resurrection_device_samsung_mondrianwifi" path="device/samsung/mondrianwifi" remote="github" revision="rr" />
   <project name="mordiford/android_kernel_samsung_mondrianwifi" path="kernel/samsung/mondrianwifi" remote="github" revision="cm-13.0" />
 
-  <!-- kltekdi -->
-  <project name="CyanogenMod/android_device_samsung_kltekdi" path="device/samsung/kltekdi" remote="github" revision="cm-13.0" />
-  <project name="CyanogenMod/android_device_samsung_klte-common" path="device/samsung/klte-common" remote="github" revision="cm-13.0" />
-  <project name="CyanogenMod/android_kernel_samsung_klte" path="kernel/samsung/klte" remote="github" revision="cm-13.0" />
-
   <!-- common -->
   <project name="CyanogenMod/android_device_samsung_msm8974-common" path="device/samsung/msm8974-common" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-13.0" />
