@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- libra -->
+  <project name="mordiford/resurrection_device_xiaomi_libra" path="device/xiaomi/libra" remote="github" revision="rr" />
+  <project name="kumajaya/android_kernel_xiaomi_msm8992" path="kernel/xiaomi/msm8992" remote="github" revision="cm-13.0" />
+
+  <!-- patch for libra -->
+  <remove-project name="CyanogenMod/android_external_ant-wireless_ant_native" />
+  <project name="mordiford/android_external_ant-wireless_ant_native" path="external/ant-wireless/ant_native" remote="github" revision="cm-13.0-libra" />
+  <remove-project name="CyanogenMod/android_hardware_qcom_bt" />
+  <project name="mordiford/android_hardware_qcom_bt" path="hardware/qcom/bt" remote="github" revision="cm-13.0-libra" />
+  <project name="mordiford/android_hardware_qcom_bt" path="hardware/qcom/bt-caf" remote="github" revision="cm-13.0-caf" />
+</manifest>
