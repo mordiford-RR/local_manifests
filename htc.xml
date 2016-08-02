@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- m7wlj -->
+  <project name="kbc-developers/android_device_htc_m7wlj" path="device/htc/m7wlj" remote="github" revision="cm-13.0" />
+  <project name="kbc-developers/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" revision="cm-13.0" />
+  <project name="kbc-developers/android_device_htc_m7-common" path="device/htc/m7-common" remote="github" revision="cm-13.0" />
+  <project name="kbc-developers/android_kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" revision="cm-13.0" />
+
+  <!-- nfc-patch -->
+  <remove-project name="CyanogenMod/android_packages_apps_Nfc" />
+  <project name="tako0910/android_packages_apps_Nfc" path="packages/apps/Nfc" remote="github" revision="cm-13.0" />
+</manifest>
