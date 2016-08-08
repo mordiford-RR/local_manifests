@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="mordiford/resurrection_device_huawei_kiwi" path="device/huawei/kiwi" remote="github" revision="marshmallow" />
+  <project name="CyanogenMod/android_kernel_huawei_kiwi" path="kernel/huawei/kiwi" remote="github" revision="cm-13.0" />
+</manifest>
