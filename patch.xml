@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="android_frameworks_base" />
+  <project name="android_frameworks_base" path="frameworks/base" remote="mordiford" revision="marshmallow" />
+  <remove-project name="Resurrection_packages_apps_Settings" />
+  <project name="Resurrection_packages_apps_Settings" path="packages/apps/Settings" remote="mordiford" revision="marshmallow" />
+  <remove-project name="android_vendor_resurrection" />
+  <project name="android_vendor_resurrection" path="vendor/cm" remote="mordiford" revision="marshmallow" />
+</manifest>
